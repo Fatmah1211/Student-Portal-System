@@ -1,1 +1,1 @@
-my name is fatima, this is open source software dev
+echo "Updated by team member" >> README.md
